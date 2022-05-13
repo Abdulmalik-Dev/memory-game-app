@@ -2,7 +2,7 @@
   "name": "react-main-files",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://memory-game-app.github.io",
+  "homepage": "https://github.com/Abdulmalik-Dev/memory-game-app.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
